@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://everyday-lines.example.com/sitemap.xml
