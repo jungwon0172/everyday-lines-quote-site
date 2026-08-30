@@ -35,7 +35,12 @@ header.site-head .wrap{
   font-family:'Noto Serif KR',serif;
   font-weight:700;font-size:22px;letter-spacing:.02em;
 }
-.logo .mark{color:var(--brass-bright);}
+.logo .mark{
+  color:var(--brass-bright);
+  display:inline-block;
+  transform:translateY(5px);
+  margin-right:1px;
+}
 nav.main-nav{display:flex;gap:22px;font-size:14px;}
 nav.main-nav a{opacity:.85;padding:6px 0;border-bottom:1px solid transparent;}
 nav.main-nav a:hover{opacity:1;border-color:var(--brass-bright);}

@@ -21,7 +21,7 @@
 </head>
 <body>
 <header class="site-head"><div class="wrap">
-<a class="logo" href="index.html"><span class="mark">"</span>매일의 문장</a>
+<a class="logo" href="index.html">매일의 문장</a>
 <nav class="main-nav">
 <a href="index.html#today">오늘의 명언</a>
 <a href="archive.html">전체 보기</a>
@@ -69,47 +69,6 @@ const now = new Date();
 document.getElementById('today-date').textContent = now.getFullYear()+'.'+String(now.getMonth()+1).padStart(2,'0')+'.'+String(now.getDate()).padStart(2,'0')+' TODAY';
 document.getElementById('today-plaque').style.display = 'block';
 </script>
-
-<h2 class="section-title">최근 등록된 문장 <span class="count">TOTAL 104</span></h2>
-<div class="grid" id="recent-grid">
-<a class="card" href="quotes/001-thomas-edison.html">
-<div class="num">No. 001 · 실패와 극복<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #3f6b3f;color:#3f6b3f;border-radius:999px;padding:2px 10px;margin-left:8px;">원문 확인됨</span></div>
-<div class="q">“나는 실패한 것이 아니다. 작동하지 않는 만 가지 방법을 찾아낸 것이다.”</div>
-<div class="a">— 토마스 에디슨</div>
-</a><a class="card" href="quotes/002-nelson-mandela.html">
-<div class="num">No. 002 · 끈기<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #3f6b3f;color:#3f6b3f;border-radius:999px;padding:2px 10px;margin-left:8px;">원문 확인됨</span></div>
-<div class="q">“가장 큰 영광은 한 번도 실패하지 않는 것이 아니라 실패할 때마다 다시 일어서는 데 있다.”</div>
-<div class="a">— 넬슨 만델라</div>
-</a><a class="card" href="quotes/003-albert-einstein.html">
-<div class="num">No. 003 · 성장<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #8a6a1f;color:#8a6a1f;border-radius:999px;padding:2px 10px;margin-left:8px;">널리 인용됨 · 출처 특정 어려움</span></div>
-<div class="q">“실패해본 적이 없는 사람은 새로운 일을 시도해본 적이 없는 사람이다.”</div>
-<div class="a">— 알베르트 아인슈타인</div>
-</a><a class="card" href="quotes/004-steve-jobs.html">
-<div class="num">No. 004 · 실행력<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #3f6b3f;color:#3f6b3f;border-radius:999px;padding:2px 10px;margin-left:8px;">원문 확인됨</span></div>
-<div class="q">“위대한 일을 하는 유일한 방법은 자신이 하는 일을 사랑하는 것이다.”</div>
-<div class="a">— 스티브 잡스</div>
-</a><a class="card" href="quotes/005-marie-curie.html">
-<div class="num">No. 005 · 지혜<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #8a6a1f;color:#8a6a1f;border-radius:999px;padding:2px 10px;margin-left:8px;">널리 인용됨 · 출처 특정 어려움</span></div>
-<div class="q">“인생에서 두려워할 것은 없다. 다만 이해해야 할 것이 있을 뿐이다.”</div>
-<div class="a">— 마리 퀴리</div>
-</a><a class="card" href="quotes/006-theodore-roosevelt.html">
-<div class="num">No. 006 · 용기<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #3f6b3f;color:#3f6b3f;border-radius:999px;padding:2px 10px;margin-left:8px;">원문 확인됨</span></div>
-<div class="q">“중요한 것은 비평가가 아니다. 실제로 경기장에 나서서 먼지와 땀과 피로 얼굴을 더럽히는 사람이다.”</div>
-<div class="a">— 시어도어 루스벨트</div>
-</a><a class="card" href="quotes/007-helen-keller.html">
-<div class="num">No. 007 · 리더십<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #3f6b3f;color:#3f6b3f;border-radius:999px;padding:2px 10px;margin-left:8px;">원문 확인됨</span></div>
-<div class="q">“혼자서는 할 수 있는 일이 거의 없지만, 함께라면 많은 것을 할 수 있다.”</div>
-<div class="a">— 헬렌 켈러</div>
-</a><a class="card" href="quotes/008-muhammad-ali.html">
-<div class="num">No. 008 · 용기<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #8a4a2f;color:#8a4a2f;border-radius:999px;padding:2px 10px;margin-left:8px;">광고·각색 문구</span></div>
-<div class="q">“불가능은 사실이 아니라 의견일 뿐이다.”</div>
-<div class="a">— 무하마드 알리</div>
-</a><a class="card" href="quotes/009-maya-angelou.html">
-<div class="num">No. 009 · 지혜<span style="display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid #3f6b3f;color:#3f6b3f;border-radius:999px;padding:2px 10px;margin-left:8px;">원문 확인됨</span></div>
-<div class="q">“사람들은 당신이 한 말은 잊어도, 당신이 준 느낌은 잊지 않는다.”</div>
-<div class="a">— 마야 안젤루</div>
-</a>
-</div>
 
 <h2 class="section-title">카테고리</h2>
 <div class="chip-row">
