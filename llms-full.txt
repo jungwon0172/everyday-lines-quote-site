@@ -1,0 +1,955 @@
+# 매일의 문장 — 전체 명언 상세
+
+> 104개 명언의 한국어 번역, 영어 원문, 인물, 출처 표기. 출처 표기 기준은 https://everyday-lines-quote-site.vercel.app/llms.txt 참고.
+
+## 실패와 극복
+
+### 토마스 에디슨 (Thomas Edison) — No. 001
+- 명언: 나는 실패한 것이 아니다. 작동하지 않는 만 가지 방법을 찾아낸 것이다.
+- 영어: I have not failed. I've just found 10,000 ways that won't work.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 여러 인터뷰·저술에서 폭넓게 확인되는 발언.
+- 인물: 발명가이자 사업가로, 전구를 비롯한 수많은 발명품을 남기며 근대 산업의 토대를 만들었다.
+- 배경: 수천 번의 실험 끝에 전구를 완성하기까지의 과정을 회고하며 남긴 말로 알려져 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/001-thomas-edison.html
+
+### 세리나 윌리엄스 (Serena Williams) — No. 025
+- 명언: 나는 지는 것을 좋아한 적이 없지만, 지는 법을 배우지 않았다면 여기까지 오지 못했을 것이다.
+- 영어: I really think a champion is defined not by their wins but by how they can recover when they fall.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수의 인터뷰·기고문에서 유사한 취지로 언급함.
+- 인물: 테니스 역사상 최다 그랜드슬램 우승 기록을 보유한 선수 중 한 명이다.
+- 배경: 숱한 패배와 부상을 딛고 정상에 복귀한 경험에서 나온 회고다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/025-serena-williams.html
+
+### J.K. 롤링 (J.K. Rowling) — No. 062
+- 명언: 바닥을 친 경험은 내 삶을 다시 세울 수 있는 단단한 기반이 되었다.
+- 영어: Rock bottom became the solid foundation on which I rebuilt my life.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 2008년 하버드대 졸업식 연설 원문에서 확인됨.
+- 인물: 《해리 포터》 시리즈를 쓴 영국의 소설가다.
+- 배경: 2008년 하버드대학교 졸업식 축사에서 이혼과 생활고를 겪었던 시절을 회고하며 한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/062-jk-rowling.html
+
+### 마이클 조던 (Michael Jordan) — No. 063
+- 명언: 나는 커리어에서 9000번 넘게 슛을 놓쳤다... 그래서 나는 성공한다.
+- 영어: I've missed more than 9000 shots in my career... I have failed over and over and over again in my life. And that is why I succeed.
+- 출처 표기: 광고·각색 문구
+- 출처 메모: 1997년 나이키 광고 캠페인용으로 제작되어 본인이 내레이션함. 즉흥 인터뷰 발언이 아님.
+- 인물: NBA 역사상 최고의 선수 중 한 명으로 꼽히는 농구 선수다.
+- 배경: 1997년 나이키의 'Failure' 광고 캠페인에서 본인이 직접 내레이션한 문구로, 실제 통계에 기반했지만 광고를 위해 다듬어진 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/063-michael-jordan.html
+
+### 혼다 소이치로 (Soichiro Honda) — No. 064
+- 명언: 성공은 99%의 실패로 이루어진다.
+- 영어: Success is 99% failure.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 혼다 사(社) 관련 회고 자료에서 폭넓게 인용되나 1차 출처는 특정되지 않음.
+- 인물: 혼다자동차를 창업한 일본의 기술자이자 기업가다.
+- 배경: 회사 초창기의 숱한 시행착오를 회고하며 남긴 문장으로 전해진다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/064-soichiro-honda.html
+
+### 아리아나 허핑턴 (Arianna Huffington) — No. 065
+- 명언: 실패는 성공의 반대말이 아니다. 실패는 성공의 일부다.
+- 영어: Failure is not the opposite of success; it's part of success.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 저서 및 인터뷰에서 확인되나 최초 발화 시점은 특정되지 않음.
+- 인물: 허핑턴포스트를 창립한 미디어 기업가다.
+- 배경: 자신의 저서와 강연에서 반복적으로 강조한 메시지다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/065-arianna-huffington.html
+
+### 헨리 포드 (Henry Ford) — No. 066
+- 명언: 실패란 더 지혜롭게 다시 시작할 수 있는 기회일 뿐이다.
+- 영어: Failure is simply the opportunity to begin again, this time more intelligently.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 인용되나 1차 출처는 명확히 확인되지 않음.
+- 인물: 포드 자동차를 설립한 미국의 기업가다.
+- 배경: 그의 경영 철학을 담은 문장으로 널리 인용된다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/066-henry-ford.html
+
+### 모리타 아키오 (Akio Morita) — No. 067
+- 명언: 성공이 언제나 실패의 자식은 아니지만, 실패는 언제나 성공의 부모다.
+- 영어: Success is not always the child of failure, but failure is always the parent of success.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 경영 관련 자료에서 인용되나 1차 출처는 특정되지 않음.
+- 인물: 소니를 공동창업한 일본의 기업가다.
+- 배경: 경영 회고 인터뷰에서 유사한 취지로 언급된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/067-akio-morita.html
+
+### 수전 B. 앤서니 (Susan B. Anthony) — No. 068
+- 명언: 실패란 있을 수 없다.
+- 영어: Failure is impossible.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1906년 마지막 공개 연설 기록으로 확인됨.
+- 인물: 미국의 여성참정권 운동을 이끈 사회운동가다.
+- 배경: 1906년, 세상을 떠나기 전 마지막 공개 연설에서 남긴 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/068-susan-b-anthony.html
+
+### 윌마 루돌프 (Wilma Rudolph) — No. 069
+- 명언: 꿈의 힘과 인간 정신의 영향력을 절대 과소평가하지 말라.
+- 영어: Never underestimate the power of dreams and the influence of the human spirit.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 자서전에서 유사 취지가 확인되나 정확한 원문 표현은 편집본마다 차이가 있음.
+- 인물: 소아마비를 극복하고 올림픽 3관왕에 오른 미국의 육상 선수다.
+- 배경: 자서전에서 자신의 인생을 돌아보며 남긴 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/069-wilma-rudolph.html
+
+### 사라 블레이클리 (Sara Blakely) — No. 070
+- 명언: 실패를 두려워하지 말라. 시도하지 않는 것을 두려워하라.
+- 영어: Don't be afraid to fail. Be afraid not to try.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 확인되나 최초 발화 시점은 특정하기 어려움.
+- 인물: 보정속옷 브랜드 스팽스(Spanx)를 창업한 미국의 기업가다.
+- 배경: 아버지가 매주 '이번 주엔 무엇에 실패했니'라고 물었다는 일화와 함께 여러 인터뷰에서 전한 메시지다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/070-sara-blakely.html
+
+### 베이브 루스 (Babe Ruth) — No. 071
+- 명언: 모든 스트라이크는 나를 다음 홈런에 더 가까이 데려간다.
+- 영어: Every strike brings me closer to the next home run.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 인용되나 1차 출처는 명확히 확인되지 않음.
+- 인물: 메이저리그 야구 역사상 가장 상징적인 홈런 타자 중 한 명이다.
+- 배경: 그의 타격 철학을 보여주는 문장으로 널리 인용된다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/071-babe-ruth.html
+
+### 조지 워싱턴 카버 (George Washington Carver) — No. 072
+- 명언: 실패의 99퍼센트는 변명하는 습관을 가진 사람들에게서 나온다.
+- 영어: Ninety-nine percent of the failures come from people who have the habit of making excuses.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 폭넓게 인용되나 1차 출처는 명확히 확인되지 않음.
+- 인물: 노예 출신으로 농학자가 되어 땅콩 등 작물 연구로 이름을 알렸다.
+- 배경: 그의 어록으로 폭넓게 전해지는 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/072-george-washington-carver.html
+
+## 끈기
+
+### 넬슨 만델라 (Nelson Mandela) — No. 002
+- 명언: 가장 큰 영광은 한 번도 실패하지 않는 것이 아니라 실패할 때마다 다시 일어서는 데 있다.
+- 영어: The greatest glory in living lies not in never falling, but in rising every time we fall.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 다수의 연설·저술에서 유사한 취지가 반복적으로 확인됨.
+- 인물: 남아프리카공화국 최초의 흑인 대통령으로, 27년간의 수감 생활을 딛고 인종차별 철폐를 이끌었다.
+- 배경: 오랜 투옥과 좌절 속에서도 신념을 굽히지 않았던 그의 삶을 관통하는 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/002-nelson-mandela.html
+
+### 코비 브라이언트 (Kobe Bryant) — No. 017
+- 명언: 왜 그렇게까지 훈련하냐고 묻는다면, 로스앤젤레스의 새벽 4시를 본 적이 있느냐고 되묻겠다.
+- 영어: Have you ever seen Los Angeles at 4am?
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 여러 인터뷰에서 반복 인용되지만 최초 발화 시점의 1차 출처는 명확히 특정되지 않음.
+- 인물: NBA 역사상 최고의 슈팅가드 중 한 명으로 꼽히는 농구 선수다.
+- 배경: 동트기 전부터 훈련을 이어간 일화에서 비롯된 이른바 '맘바 멘탈리티'를 상징하는 발언으로, 여러 인터뷰에서 반복적으로 인용되었다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/017-kobe-bryant.html
+
+### 짐 론 (Jim Rohn) — No. 023
+- 명언: 매일이 중요하다. 하루하루가 벽돌 한 장씩 쌓아 성을 짓는 과정이기 때문이다.
+- 영어: Success is nothing more than a few simple disciplines, practiced every day.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 여러 저서·강연에서 반복적으로 언급한 그의 대표 메시지.
+- 인물: 미국의 기업가이자 자기계발 분야의 대표적 강연가다.
+- 배경: 작은 습관의 축적이 결과를 만든다는 그의 핵심 메시지를 담고 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/023-jim-rohn.html
+
+### 크리스 가드너 (Chris Gardner) — No. 041
+- 명언: 꿈이 있다면, 그것을 지켜내야 한다.
+- 영어: You got a dream, you gotta protect it.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 회고록 및 영화 대사로 널리 알려졌으며, 정확한 원문 발화 시점은 특정하기 어려움.
+- 인물: 노숙 생활을 딛고 투자회사를 설립한 사업가로, 그의 이야기는 영화 《행복을 찾아서》로 제작됐다.
+- 배경: 자신의 회고록에서 아들에게 전하고 싶었던 메시지로 소개한 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/041-chris-gardner.html
+
+### 빈스 롬바디 (Vince Lombardi) — No. 042
+- 명언: 중요한 것은 넘어졌는가가 아니라, 다시 일어서는가이다.
+- 영어: It's not whether you get knocked down; it's whether you get up.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 코칭 관련 기록에서 폭넓게 인용되나 특정 경기·연설의 1차 기록은 확인되지 않음.
+- 인물: 미국 프로풋볼 그린베이 패커스를 이끈 전설적인 감독이다.
+- 배경: 선수단을 지도하며 반복해서 강조한 그의 코칭 철학이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/042-vince-lombardi.html
+
+### 무하마드 알리 (Muhammad Ali) — No. 043
+- 명언: 지금 고통을 견뎌라, 그러면 남은 삶을 챔피언으로 살 수 있다.
+- 영어: Suffer now and live the rest of your life as a champion.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수의 인터뷰에서 반복적으로 확인되나 최초 발화 시점은 특정하기 어려움.
+- 인물: 20세기를 대표하는 헤비급 복싱 챔피언이다.
+- 배경: 혹독한 훈련의 이유를 설명하며 여러 인터뷰에서 남긴 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/043-muhammad-ali.html
+
+### 시몬 바일스 (Simone Biles) — No. 044
+- 명언: 나는 다음 우사인 볼트나 마이클 펠프스가 아니다. 나는 최초의 시몬 바일스다.
+- 영어: I'm not the next Usain Bolt or Michael Phelps. I'm the first Simone Biles.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 2016년 인터뷰에서 확인되나 정확한 매체와 원문은 재확인이 필요함.
+- 인물: 역사상 가장 많은 메달을 획득한 미국의 체조 선수다.
+- 배경: 2016년 리우 올림픽을 앞두고 한 인터뷰에서 남긴 발언이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/044-simone-biles.html
+
+### 우사인 볼트 (Usain Bolt) — No. 045
+- 명언: 나는 한계를 생각하지 않는다.
+- 영어: I don't think limits.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 유사하게 확인되나 단일 출처는 특정되지 않음.
+- 인물: 100m·200m 세계기록을 보유한 자메이카의 육상 선수다.
+- 배경: 훈련과 도전에 대한 태도를 묻는 인터뷰에서 반복적으로 나온 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/045-usain-bolt.html
+
+### 스티븐 킹 (Stephen King) — No. 046
+- 명언: 재능은 소금보다 흔하다. 재능 있는 사람과 성공한 사람을 가르는 것은 결국 엄청난 노력이다.
+- 영어: Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 회고록 《On Writing》(2000) 원문에서 확인됨.
+- 인물: 《샤이닝》, 《그것》 등을 쓴 미국의 베스트셀러 소설가다.
+- 배경: 글쓰기에 관한 회고록에서 밝힌 창작 철학이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/046-stephen-king.html
+
+### 아멜리아 에어하트 (Amelia Earhart) — No. 047
+- 명언: 가장 어려운 것은 행동하기로 결심하는 것이다. 나머지는 그저 끈기일 뿐이다.
+- 영어: The most difficult thing is the decision to act, the rest is merely tenacity.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 유고집 《Last Flight》(1937)에서 확인됨.
+- 인물: 대서양을 단독 횡단한 최초의 여성 비행사다.
+- 배경: 사후 출간된 저서에 실린 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/047-amelia-earhart.html
+
+### 로자 파크스 (Rosa Parks) — No. 048
+- 명언: 나는 자유를 원했던 사람으로, 그래서 다른 사람들도 자유로워지길 바랐던 사람으로 기억되고 싶다.
+- 영어: I would like to be remembered as a person who wanted to be free... so other people would also be free.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 자서전 《Quiet Strength》(1994)에서 확인됨.
+- 인물: 몽고메리 버스 보이콧의 시발점이 된 미국의 민권운동가다.
+- 배경: 자서전에서 자신이 어떤 사람으로 기억되길 바라는지 밝힌 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/048-rosa-parks.html
+
+### 토니 모리슨 (Toni Morrison) — No. 049
+- 명언: 읽고 싶은 책이 아직 쓰이지 않았다면, 당신이 그것을 써야 한다.
+- 영어: If there's a book you want to read, but it hasn't been written yet, then you must write it.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 확인되나 최초 출처는 특정되지 않음.
+- 인물: 노벨문학상을 수상한 미국의 소설가다.
+- 배경: 여러 인터뷰에서 반복적으로 언급한 창작에 대한 신념이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/049-toni-morrison.html
+
+### 마이클 펠프스 (Michael Phelps) — No. 050
+- 명언: 내가 얼마나 나 자신을 밀어붙일 수 있는지 시험해보고 싶었다.
+- 영어: I wanted to see how far I could push myself.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 유사하게 확인되나 단일 출처는 특정되지 않음.
+- 인물: 올림픽 역사상 최다 금메달을 보유한 미국의 수영 선수다.
+- 배경: 훈련 동기를 묻는 인터뷰에서 반복적으로 언급한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/050-michael-phelps.html
+
+## 성장
+
+### 알베르트 아인슈타인 (Albert Einstein) — No. 003
+- 명언: 실패해본 적이 없는 사람은 새로운 일을 시도해본 적이 없는 사람이다.
+- 영어: A person who never made a mistake never tried anything new.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 여러 전기적 자료에서 일관되게 인용되나 단일 원문 출처는 특정하기 어려움.
+- 인물: 상대성이론을 정립한 물리학자로, 현대 과학의 패러다임을 바꾼 인물이다.
+- 배경: 기존의 틀을 깨는 사고를 강조했던 그의 연구 철학과 맞닿아 있는 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/003-albert-einstein.html
+
+### 벤저민 프랭클린 (Benjamin Franklin) — No. 012
+- 명언: 투자는 결코 마르지 않는 이자를 지불한다.
+- 영어: An investment in knowledge pays the best interest.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 벤저민 프랭클린 명의로 널리 유통되나 그의 저작에서 원문을 특정하기 어려움.
+- 인물: 미국 건국의 아버지 중 한 명이자 과학자, 저술가로 다방면에서 활약했다.
+- 배경: 평생 독학과 자기계발을 실천했던 그의 삶의 태도를 보여준다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/012-benjamin-franklin.html
+
+### 프레더릭 더글러스 (Frederick Douglass) — No. 020
+- 명언: 투쟁이 없다면 진보도 없다.
+- 영어: If there is no struggle, there is no progress.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1857년 연설 원문으로 확인됨.
+- 인물: 노예로 태어나 탈출한 뒤 노예제 폐지 운동을 이끈 연설가이자 저술가다.
+- 배경: 1857년 '서인도제도 해방 기념 연설(West India Emancipation)'에서 실제로 한 발언으로 기록되어 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/020-frederick-douglass.html
+
+### 레프 톨스토이 (Leo Tolstoy) — No. 028
+- 명언: 모두가 세상을 바꾸겠다고 생각하지만, 정작 자신을 바꾸겠다고 생각하는 사람은 없다.
+- 영어: Everyone thinks of changing the world, but no one thinks of changing himself.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 번역 축약 과정에서 다듬어진 문장으로 보이며, 유사한 취지의 문단이 그의 사회비평 글에서 확인됨.
+- 인물: 《전쟁과 평화》 등을 쓴 러시아의 대문호다.
+- 배경: 내적 성찰을 중시했던 그의 사상이 응축된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/028-leo-tolstoy.html
+
+### 캐럴 드웩 (Carol Dweck) — No. 088
+- 명언: 존재하는 것보다, 되어가는 것이 낫다.
+- 영어: Becoming is better than being.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《마인드셋(Mindset)》(2006)에서 확인됨.
+- 인물: '성장 마인드셋' 이론을 정립한 스탠퍼드대학교의 심리학자다.
+- 배경: 그녀의 저서에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/088-carol-dweck.html
+
+### 레오나르도 다빈치 (Leonardo da Vinci) — No. 089
+- 명언: 쓰지 않는 쇠는 녹슬고, 고이는 물은 순수함을 잃는다. 마찬가지로 활동하지 않는 정신은 활기를 잃는다.
+- 영어: Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 다빈치의 노트(Codex) 원문에서 확인됨.
+- 인물: 르네상스를 대표하는 화가이자 과학자, 발명가다.
+- 배경: 그가 남긴 수천 페이지의 노트(코덱스)에 실제로 기록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/089-leonardo-da-vinci.html
+
+### 헨리 데이비드 소로 (Henry David Thoreau) — No. 090
+- 명언: 자신 있게 꿈꾸던 방향으로 나아가라. 그리고 상상해온 삶을 살아라.
+- 영어: Go confidently in the direction of your dreams. Live the life you've imagined.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《월든(Walden)》(1854) 원문에서 확인됨.
+- 인물: 자연 속 소박한 삶을 기록한 《월든》의 저자다.
+- 배경: 《월든》의 결론 장에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/090-henry-david-thoreau.html
+
+### 스티븐 호킹 (Stephen Hawking) — No. 091
+- 명언: 지능이란 변화에 적응하는 능력이다.
+- 영어: Intelligence is the ability to adapt to change.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 확인되나 최초 출처는 특정되지 않음.
+- 인물: 블랙홀과 우주론 연구로 널리 알려진 영국의 이론물리학자다.
+- 배경: 여러 인터뷰와 강연에서 반복적으로 언급된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/091-stephen-hawking.html
+
+### 마야 안젤루 (Maya Angelou) — No. 092
+- 명언: 무언가가 마음에 들지 않으면 바꿔라. 바꿀 수 없다면, 태도를 바꿔라.
+- 영어: If you don't like something, change it. If you can't change it, change your attitude.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 확인되나 최초 출처는 특정되지 않음.
+- 인물: 미국의 시인이자 인권 운동가로, 자전적 문학으로 널리 알려졌다.
+- 배경: 여러 인터뷰에서 반복적으로 전한 삶의 태도다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/092-maya-angelou.html
+
+### 미켈란젤로 (Michelangelo) — No. 093
+- 명언: 나는 여전히 배우고 있다.
+- 영어: Ancora imparo. (I am still learning.)
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 그의 좌우명으로 널리 전해지나, 정확한 1차 기록은 명확히 확인되지 않음.
+- 인물: 르네상스를 대표하는 조각가이자 화가로, 시스티나 성당 천장화를 그렸다.
+- 배경: 말년의 그의 좌우명으로 전해지는 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/093-michelangelo.html
+
+### 브루스 리 (Bruce Lee) — No. 094
+- 명언: 쓸모 있는 것은 받아들이고, 쓸모없는 것은 버리며, 자신만의 것을 더하라.
+- 영어: Adapt what is useful, reject what is useless, and add what is specifically your own.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《절권도의 길(Tao of Jeet Kune Do)》에서 확인됨.
+- 인물: 무술가이자 배우로, 절권도(截拳道)를 창시했다.
+- 배경: 그의 무술 철학을 담은 저서에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/094-bruce-lee.html
+
+### 에픽테토스 (Epictetus) — No. 095
+- 명언: 당신을 흔드는 것은 일어난 일이 아니라, 그것에 대한 당신의 판단이다.
+- 영어: It's not what happens to you, but how you react to it that matters.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 《엥케이리디온》 원문의 번역으로 확인됨.
+- 인물: 노예 출신의 고대 그리스 스토아 철학자다.
+- 배경: 제자가 정리한 어록집 《엥케이리디온(Enchiridion)》에 담긴 취지를 옮긴 번역이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/095-epictetus.html
+
+### 노자 (Lao Tzu) — No. 096
+- 명언: 천 리 길도 한 걸음부터 시작된다.
+- 영어: A journey of a thousand miles begins with a single step.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 고전 《도덕경》 원문 번역으로 확인됨.
+- 인물: 고대 중국의 사상가로, 도가(道家) 사상의 시조로 여겨진다.
+- 배경: 고전 《도덕경(道德經)》에 실제로 수록된 구절의 대표적 번역이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/096-lao-tzu.html
+
+## 실행력
+
+### 스티브 잡스 (Steve Jobs) — No. 004
+- 명언: 위대한 일을 하는 유일한 방법은 자신이 하는 일을 사랑하는 것이다.
+- 영어: The only way to do great work is to love what you do.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 여러 매체에서 널리 인용되나 1차 출처가 명확히 확인되지는 않음.
+- 인물: 애플의 공동창업자로, 개인용 컴퓨터와 스마트폰 산업의 방향을 바꾼 혁신가다.
+- 배경: 2005년 스탠퍼드대학교 졸업식 축사에서 자신의 인생 세 이야기를 전하며 남긴 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/004-steve-jobs.html
+
+### 오프라 윈프리 (Oprah Winfrey) — No. 011
+- 명언: 가장 큰 모험은 당신이 꿈꾸던 삶을 사는 것이다.
+- 영어: The biggest adventure you can take is to live the life of your dreams.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수의 인터뷰에서 유사 취지가 반복됨. 특정 시점의 1차 출처는 불명확.
+- 인물: 빈곤한 어린 시절을 딛고 미국 최고의 방송인이자 미디어 기업가로 성장했다.
+- 배경: 역경을 극복하고 자신의 길을 개척한 삶에서 나온 신념이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/011-oprah-winfrey.html
+
+### 제인 구달 (Jane Goodall) — No. 015
+- 명언: 당신이 만드는 모든 작은 변화가 세상을 바꾼다.
+- 영어: What you do makes a difference, and you have to decide what kind of difference you want to make.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수의 인터뷰·강연에서 반복적으로 확인되는 취지.
+- 인물: 침팬지 연구로 유명한 영장류학자이자 환경운동가다.
+- 배경: 평생 현장 연구와 환경 보호 캠페인을 병행하며 강조한 실천의 가치다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/015-jane-goodall.html
+
+### 안네 프랑크 (Anne Frank) — No. 018
+- 명언: 세상을 더 나은 곳으로 만드는 일을 시작하는 것은 얼마나 멋진 일인가. 그것도 지금 바로.
+- 영어: How wonderful it is that nobody need wait a single moment before starting to improve the world.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1944년 3월 일기 실제 원문.
+- 인물: 제2차 세계대전 중 은신 생활을 기록한 일기로 널리 알려진 소녀다.
+- 배경: 극한의 상황 속에서도 희망을 잃지 않았던 일기 속 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/018-anne-frank.html
+
+### 말랄라 유사프자이 (Malala Yousafzai) — No. 029
+- 명언: 한 명의 아이, 한 명의 교사, 한 권의 책, 한 자루의 펜이 세상을 바꿀 수 있다.
+- 영어: One child, one teacher, one book, one pen can change the world.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 2013년 UN 청소년 총회 연설 실제 원문.
+- 인물: 여성 교육권을 위해 목소리를 내온 세계 최연소 노벨평화상 수상자다.
+- 배경: 탈레반의 위협 속에서도 교육의 권리를 주장하며 UN 연설에서 전한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/029-malala-yousafzai.html
+
+### 왕가리 마타이 (Wangari Maathai) — No. 097
+- 명언: 시민들이 하는 작은 일들, 그것이 바로 변화를 만든다. 나의 작은 일은 나무를 심는 것이다.
+- 영어: It's the little things citizens do. That's what will make the difference. My little thing is planting trees.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 2004년 노벨평화상 수상 연설 원문에서 확인됨.
+- 인물: 케냐의 환경운동가로, 아프리카 여성 최초로 노벨평화상을 수상했다.
+- 배경: 2004년 노벨평화상 수상 연설에서 실제로 한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/097-wangari-maathai.html
+
+### 버락 오바마 (Barack Obama) — No. 098
+- 명언: 변화는 다른 누군가나 다른 때를 기다린다고 오지 않는다. 우리가 바로 우리가 기다려온 변화다.
+- 영어: Change will not come if we wait for some other person or some other time. We are the change that we seek.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 2008년 대선 캠페인 연설 기록으로 확인됨.
+- 인물: 미국의 44대 대통령으로, 첫 흑인 대통령이었다.
+- 배경: 2008년 대선 캠페인 연설에서 실제로 한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/098-barack-obama.html
+
+### 빌 게이츠 (Bill Gates) — No. 099
+- 명언: 가장 불만족한 고객이야말로 가장 큰 배움의 원천이다.
+- 영어: Your most unhappy customers are your greatest source of learning.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수의 인터뷰·기고문에서 확인되나 최초 출처는 특정되지 않음.
+- 인물: 마이크로소프트를 공동창업한 기업가이자 자선사업가다.
+- 배경: 경영과 관련한 여러 인터뷰·기고문에서 반복적으로 언급한 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/099-bill-gates.html
+
+### 아니타 로딕 (Anita Roddick) — No. 100
+- 명언: 당신이 너무 작아서 영향을 줄 수 없다고 생각한다면, 모기와 함께 잠자리에 들어보라.
+- 영어: If you think you're too small to have an impact, try going to bed with a mosquito.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 확인되나 최초 출처는 특정되지 않음.
+- 인물: 화장품 브랜드 더바디샵을 창업한 영국의 기업가이자 사회운동가다.
+- 배경: 환경·사회운동을 독려하며 여러 인터뷰에서 남긴 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/100-anita-roddick.html
+
+### 그레타 툰베리 (Greta Thunberg) — No. 101
+- 명언: 당신은 변화를 만들기에 결코 너무 작지 않다.
+- 영어: You are never too small to make a difference.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인의 공개 연설·저서에서 확인됨.
+- 인물: 스웨덴 출신의 청소년 기후 운동가다.
+- 배경: 자신의 저서와 여러 국제 연설에서 실제로 한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/101-greta-thunberg.html
+
+### 세자르 차베스 (Cesar Chavez) — No. 102
+- 명언: 일단 사회적 변화가 시작되면 되돌릴 수 없다. 글을 배운 사람을 다시 문맹으로 만들 수는 없다.
+- 영어: Once social change begins, it cannot be reversed... you cannot uneducate the person who has learned to read.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 여러 연설에서 확인되나 특정 1차 기록은 재확인이 필요함.
+- 인물: 미국의 농장노동자 인권운동을 이끈 노동운동가다.
+- 배경: 그의 여러 연설에서 반복적으로 확인되는 메시지다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/102-cesar-chavez.html
+
+### 마더 테레사 (Mother Teresa) — No. 103
+- 명언: 우리 모두가 위대한 일을 할 수는 없지만, 위대한 사랑으로 작은 일을 할 수는 있다.
+- 영어: Not all of us can do great things, but we can do small things with great love.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 폭넓게 인용되나 전기 작가들 사이에서도 정확한 출처에 대한 이견이 있음.
+- 인물: 인도 콜카타에서 빈민 구호 활동을 펼친 로마 가톨릭 수녀다.
+- 배경: 그녀의 말로 폭넓게 전해지나, 전기 작가들 사이에서도 정확한 발화 시점에 대한 이견이 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/103-mother-teresa.html
+
+### 무함마드 유누스 (Muhammad Yunus) — No. 104
+- 명언: 모든 인간은 기업가다.
+- 영어: All human beings are entrepreneurs.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 저술·강연에서 폭넓게 확인되나 특정 1차 출처는 명시되지 않음.
+- 인물: 그라민은행을 설립해 소액대출(마이크로크레딧)을 개척한 방글라데시의 경제학자다.
+- 배경: 그의 저술과 강연에서 반복적으로 강조한 신념이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/104-muhammad-yunus.html
+
+## 지혜
+
+### 마리 퀴리 (Marie Curie) — No. 005
+- 명언: 인생에서 두려워할 것은 없다. 다만 이해해야 할 것이 있을 뿐이다.
+- 영어: Nothing in life is to be feared, it is only to be understood.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 본인의 편지·저술을 엮은 전기 자료에서 확인됨.
+- 인물: 방사성 원소 연구로 노벨상을 두 개 부문에서 수상한 최초의 인물이다.
+- 배경: 미지의 영역을 두려움이 아닌 탐구의 대상으로 여겼던 그녀의 과학자적 태도를 보여준다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/005-marie-curie.html
+
+### 마야 안젤루 (Maya Angelou) — No. 009
+- 명언: 사람들은 당신이 한 말은 잊어도, 당신이 준 느낌은 잊지 않는다.
+- 영어: People will forget what you said, but they will never forget how you made them feel.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 널리 인용되나 안젤루 본인의 저작에서 정확한 1차 출처는 특정되지 않음.
+- 인물: 미국의 시인이자 인권 운동가로, 자전적 문학으로 널리 알려졌다.
+- 배경: 관계와 공감에 대한 그녀의 통찰을 담은 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/009-maya-angelou.html
+
+### 라이너 마리아 릴케 (Rainer Maria Rilke) — No. 014
+- 명언: 미래를 미리 살아버리려 하지 말고, 인내심을 가지고 질문 자체를 살아보라.
+- 영어: Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 《젊은 시인에게 보내는 편지(Letters to a Young Poet)》(1929)에 실제로 수록된 문장.
+- 인물: 독일어권을 대표하는 시인으로, 내면적 성찰을 담은 작품을 남겼다.
+- 배경: 젊은 시인에게 보낸 편지에서 조급함을 경계하며 전한 조언이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/014-rainer-maria-rilke.html
+
+### 무라카미 하루키 (Haruki Murakami) — No. 016
+- 명언: 고통은 피할 수 없지만, 괴로워할지 말지는 선택할 수 있다.
+- 영어: Pain is inevitable. Suffering is optional.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 에세이 《달리기를 말할 때 내가 하고 싶은 이야기》의 영역본에서 널리 쓰이는 표현. 원문 일본어와는 문장 구조가 다를 수 있음.
+- 인물: 일본의 소설가로 독특한 문체와 세계관으로 국제적 명성을 얻었다.
+- 배경: 장거리 러너이기도 한 그가 달리기와 삶의 태도를 엮어 쓴 에세이에서 전한 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/016-haruki-murakami.html
+
+### 마르쿠스 아우렐리우스 (Marcus Aurelius) — No. 024
+- 명언: 당신은 외부 사건이 아니라 자신의 생각에 대한 힘을 가지고 있다. 이를 깨달으면 그곳에서 힘을 발견할 것이다.
+- 영어: You have power over your mind — not outside events. Realize this, and you will find strength.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 《명상록》 원문의 번역으로 확인됨.
+- 인물: 로마 제국의 16대 황제이자 스토아 철학자로, 개인 사색을 담은 《명상록》을 남겼다.
+- 배경: 《명상록(Meditations)》에 실제로 담긴 구절의 대표적 영역본이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/024-marcus-aurelius.html
+
+### 링컨 (Abraham Lincoln) — No. 026
+- 명언: 미래를 예비하는 가장 좋은 방법은 오늘을 잘 사는 것이다.
+- 영어: The best thing about the future is that it comes one day at a time.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 유통되나 링컨의 공식 문서·연설 기록에서는 확인되지 않음.
+- 인물: 미국의 16대 대통령으로, 남북전쟁을 이끌고 노예제를 폐지했다.
+- 배경: 여러 번의 선거 낙선을 겪은 뒤에도 꾸준히 나아간 그의 삶과 닿아 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/026-abraham-lincoln.html
+
+### 세네카 (Seneca) — No. 073
+- 명언: 행운이란, 준비가 기회를 만났을 때 일어나는 일이다.
+- 영어: Luck is what happens when preparation meets opportunity.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 《도덕에 관한 서한(Epistulae Morales)》 원문 번역으로 확인됨.
+- 인물: 고대 로마의 스토아 철학자이자 정치가다.
+- 배경: 그의 편지 모음집에 실제로 담긴 구절의 대표적 번역이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/073-seneca.html
+
+### 공자 (Confucius) — No. 074
+- 명언: 배우기만 하고 생각하지 않으면 얻는 것이 없고, 생각만 하고 배우지 않으면 위태롭다.
+- 영어: Learning without thought is labor lost; thought without learning is perilous.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 고전 《논어》 원문 번역으로 확인됨.
+- 인물: 춘추시대 중국의 사상가로, 유교 사상의 시조로 여겨진다.
+- 배경: 《논어(論語)》 위정편에 실제로 수록된 구절의 대표적 번역이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/074-confucius.html
+
+### 석가모니 (The Buddha) — No. 075
+- 명언: 마음이 모든 것이다. 생각하는 대로 존재가 된다.
+- 영어: The mind is everything. What you think you become.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 《법구경》 첫 구절의 취지를 담은 번역이나, 번역본마다 표현이 다르게 전해짐.
+- 인물: 불교의 창시자로, 그의 가르침은 경전을 통해 전해진다.
+- 배경: 불교 경전 《법구경(Dhammapada)》 첫 구절의 여러 영역본 중 하나에 가깝다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/075-the-buddha.html
+
+### 루미 (Rumi) — No. 076
+- 명언: 상처는 빛이 당신 안으로 들어오는 자리다.
+- 영어: The wound is the place where the light enters you.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 영역 시집에서 널리 인용되나, 번역 과정에서 원문과 차이가 있다는 지적이 있음.
+- 인물: 13세기 페르시아의 신비주의 시인이다.
+- 배경: 영어권에서 널리 읽히는 콜먼 바크스(Coleman Barks)의 영역 시집에 실린 구절이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/076-rumi.html
+
+### 소크라테스 (Socrates) — No. 077
+- 명언: 내가 아는 유일한 것은, 내가 아무것도 모른다는 것이다.
+- 영어: The only true wisdom is in knowing you know nothing.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 플라톤의 기록에 바탕한 후대의 요약된 표현으로, 소크라테스 본인의 정확한 육성 그대로는 아님.
+- 인물: 고대 그리스의 철학자로, 문답법을 통한 탐구로 유명하다.
+- 배경: 제자 플라톤의 《변명(Apology)》에 담긴 취지를 요약한 후대의 표현이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/077-socrates.html
+
+### 볼테르 (Voltaire) — No. 078
+- 명언: 상식은 그리 흔하지 않다.
+- 영어: Common sense is not so common.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《철학사전(Dictionnaire philosophique)》에서 확인됨.
+- 인물: 프랑스 계몽주의를 대표하는 사상가이자 작가다.
+- 배경: 그의 저서에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/078-voltaire.html
+
+### 칼릴 지브란 (Khalil Gibran) — No. 079
+- 명언: 가장 강한 영혼은 고통 속에서 태어난다.
+- 영어: Out of suffering have emerged the strongest souls.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 그의 저작 취지와 일치하나 정확한 원문 출처는 재확인이 필요함.
+- 인물: 레바논 출신의 시인이자 화가로, 《예언자》로 널리 알려졌다.
+- 배경: 그의 저술 전반에서 반복되는 정서를 담은 문장으로 전해진다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/079-khalil-gibran.html
+
+## 용기
+
+### 시어도어 루스벨트 (Theodore Roosevelt) — No. 006
+- 명언: 중요한 것은 비평가가 아니다. 실제로 경기장에 나서서 먼지와 땀과 피로 얼굴을 더럽히는 사람이다.
+- 영어: It is not the critic who counts... The credit belongs to the man who is actually in the arena.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1910년 실제 연설문 원문으로 확인됨.
+- 인물: 미국의 26대 대통령으로, 정치·군사·자연보호 등 다방면에서 행동하는 지도자로 평가받는다.
+- 배경: 1910년 파리 소르본대학교 연설 'Citizenship in a Republic' 중 이른바 '경기장의 인간(Man in the Arena)' 대목으로, 실제 연설 원문으로 확인된다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/006-theodore-roosevelt.html
+
+### 무하마드 알리 (Muhammad Ali) — No. 008
+- 명언: 불가능은 사실이 아니라 의견일 뿐이다.
+- 영어: Impossible is not a fact. It's an opinion.
+- 출처 표기: 광고·각색 문구
+- 출처 메모: 2004년 아디다스 'Impossible is Nothing' 광고 캠페인용으로 작성되어 본인이 내레이션함. 즉흥 발언이 아닌 광고 카피.
+- 인물: 20세기를 대표하는 헤비급 복싱 챔피언이자 사회적 발언을 아끼지 않은 인물이다.
+- 배경: 링 안팎에서 자신의 신념을 굽히지 않았던 태도를 상징하는 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/008-muhammad-ali.html
+
+### 일론 머스크 (Elon Musk) — No. 021
+- 명언: 무언가가 충분히 중요하다면, 확률이 유리하지 않더라도 그 일을 해야 한다.
+- 영어: When something is important enough, you do it even if the odds are not in your favor.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 2012년 무렵 다수의 인터뷰에서 유사한 취지로 언급함.
+- 인물: 테슬라와 스페이스X 등을 이끄는 기업가로, 전기차와 우주산업 혁신을 주도했다.
+- 배경: 스페이스X 초기 연이은 발사 실패 속에서도 사업을 지속한 신념을 보여준다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/021-elon-musk.html
+
+### 루이자 메이 올콧 (Louisa May Alcott) — No. 022
+- 명언: 나는 폭풍을 두려워하지 않는다. 배를 조종하는 법을 배우고 있으니까.
+- 영어: I am not afraid of storms, for I am learning how to sail my ship.
+- 출처 표기: 소설 속 대사
+- 출처 메모: 소설 《작은 아씨들》 속 등장인물 조(Jo)의 대사. 올콧 본인의 개인적 발언이 아닌 소설 텍스트임.
+- 인물: 소설 《작은 아씨들》을 쓴 미국의 작가다.
+- 배경: 역경 속에서도 스스로의 힘을 길러가는 주인공의 성장을 통해 전한 메시지다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/022-louisa-may-alcott.html
+
+### 그레이스 호퍼 (Grace Hopper) — No. 027
+- 명언: 배는 항구에 있을 때 가장 안전하지만, 그것이 배가 만들어진 이유는 아니다.
+- 영어: A ship in port is safe, but that is not what ships are built for.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 해군 관련 기록과 인터뷰에서 폭넓게 인용되나 최초 발화 시점은 불명확.
+- 인물: 미국 해군 제독이자 컴퓨터 프로그래밍 언어 발전에 기여한 컴퓨터 과학자다.
+- 배경: 안주보다 도전을 택했던 그녀의 개척자적 태도를 상징하는 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/027-grace-hopper.html
+
+### 해리엇 터브먼 (Harriet Tubman) — No. 080
+- 명언: 나는 천 명의 노예를 해방시켰다. 그들이 노예라는 사실을 스스로 알았다면 천 명은 더 해방시킬 수 있었을 것이다.
+- 영어: I freed a thousand slaves. I could have freed a thousand more if only they knew they were slaves.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 역사학자들 사이에서 실제 발화 여부에 이견이 있는 문장으로, 확정된 1차 기록은 없음.
+- 인물: 지하철도(Underground Railroad)를 이끌고 수많은 노예를 탈출시킨 인권운동가다.
+- 배경: 널리 그녀의 말로 전해지지만, 역사학자들 사이에서는 실제 발화 여부에 대한 이견이 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/080-harriet-tubman.html
+
+### 아멜리아 에어하트 (Amelia Earhart) — No. 081
+- 명언: 용기는 삶이 평화를 허락하는 대가로 요구하는 값이다.
+- 영어: Courage is the price that life exacts for granting peace.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 그녀의 저술과 관련해 전해지나 정확한 원문 출처는 재확인이 필요함.
+- 인물: 대서양을 단독 횡단한 최초의 여성 비행사다.
+- 배경: 그녀의 글과 시에서 반복적으로 드러나는 주제를 담은 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/081-amelia-earhart.html
+
+### 엘리너 루스벨트 (Eleanor Roosevelt) — No. 082
+- 명언: 당신의 동의 없이는 그 누구도 당신에게 열등감을 느끼게 할 수 없다.
+- 영어: No one can make you feel inferior without your consent.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《This Is My Story》(1937)에서 확인됨.
+- 인물: 미국의 32대 대통령 부인이자, 독자적인 인권운동가로 활동했다.
+- 배경: 본인의 저서에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/082-eleanor-roosevelt.html
+
+### 맬컴 엑스 (Malcolm X) — No. 083
+- 명언: 아무것도 옹호하지 않는 사람은 무엇에든 넘어가고 만다.
+- 영어: A man who stands for nothing will fall for anything.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 폭넓게 인용되나 정확한 1차 출처는 특정되지 않음.
+- 인물: 미국의 인권운동가로, 흑인 민권 운동에서 급진적 목소리를 낸 인물이다.
+- 배경: 그의 연설과 관련해 폭넓게 인용되는 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/083-malcolm-x.html
+
+### 닐 암스트롱 (Neil Armstrong) — No. 084
+- 명언: 이것은 한 인간에게는 작은 발걸음이지만, 인류에게는 위대한 도약이다.
+- 영어: That's one small step for man, one giant leap for mankind.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1969년 실제 무선 교신 기록으로 확인됨.
+- 인물: 1969년 인류 최초로 달에 발을 디딘 미국의 우주비행사다.
+- 배경: 1969년 아폴로 11호 달 착륙 당시 실제 무선 교신으로 남겨진 기록이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/084-neil-armstrong.html
+
+### 캐서린 존슨 (Katherine Johnson) — No. 085
+- 명언: 나는 배우는 것을 좋아한다. 그것은 예술이자 과학이다.
+- 영어: I like to learn. That's an art and a science.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 인터뷰에서 확인되나 정확한 매체와 시점은 재확인이 필요함.
+- 인물: NASA에서 우주선 궤도 계산을 담당했던 수학자로, 영화 《히든 피겨스》로 알려졌다.
+- 배경: 말년의 인터뷰에서 자신의 배움에 대한 태도를 밝힌 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/085-katherine-johnson.html
+
+### 소저너 트루스 (Sojourner Truth) — No. 086
+- 명언: 신이 만든 첫 여성이 홀로 세상을 뒤집을 만큼 강했다면, 여성들이 함께라면 세상을 다시 바로 세울 수 있어야 한다.
+- 영어: If the first woman God ever made was strong enough to turn the world upside down, all alone, together women ought to be able to turn it back.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 1851년 연설로 알려져 있으나, 당시 기록자마다 문장이 다르게 전해져 정확한 원문은 확정하기 어려움.
+- 인물: 노예 출신으로 노예제 폐지와 여성 권리를 위해 싸운 연설가다.
+- 배경: 1851년 오하이오 여성권리대회 연설 중 한 구절로, 당대 여러 기록자에 의해 다르게 옮겨져 전해진다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/086-sojourner-truth.html
+
+### 오드리 로드 (Audre Lorde) — No. 087
+- 명언: 내가 감히 힘을 가지려 하고, 나의 비전을 위해 그 힘을 쓸 때, 내가 두려운지 아닌지는 점점 덜 중요해진다.
+- 영어: When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 에세이 'The Transformation of Silence into Language and Action'에서 확인됨.
+- 인물: 미국의 시인이자 民권운동가로, 자신을 '흑인, 레즈비언, 어머니, 전사, 시인'이라 칭했다.
+- 배경: 그녀의 에세이에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/087-audre-lorde.html
+
+## 리더십
+
+### 헬렌 켈러 (Helen Keller) — No. 007
+- 명언: 혼자서는 할 수 있는 일이 거의 없지만, 함께라면 많은 것을 할 수 있다.
+- 영어: Alone we can do so little; together we can do so much.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인의 에세이 'The Open Door'(1957)에 실린 문장.
+- 인물: 시각과 청각 장애를 극복하고 작가이자 사회운동가로 활동했다.
+- 배경: 장애인 인권 운동을 하며 연대의 가치를 강조했던 그녀의 대표 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/007-helen-keller.html
+
+### 드와이트 아이젠하워 (Dwight D. Eisenhower) — No. 019
+- 명언: 리더십이란, 상대가 원해서 스스로 하고 싶어지도록 만들어 원하는 일을 하게 하는 기술이다.
+- 영어: Leadership is the art of getting someone else to do something you want done because he wants to do it.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인의 연설 기록으로 확인됨.
+- 인물: 제2차 세계대전 연합군 최고사령관을 지낸 뒤 미국의 34대 대통령이 되었다.
+- 배경: 1957년 공화당 전국위원회 연설 등 여러 자리에서 본인이 직접 언급한 것으로 기록에 남아 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/019-dwight-d-eisenhower.html
+
+### 존 맥스웰 (John C. Maxwell) — No. 051
+- 명언: 리더란 길을 알고, 그 길을 가고, 그 길을 보여주는 사람이다.
+- 영어: A leader is one who knows the way, goes the way, and shows the way.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인의 리더십 저서 시리즈에서 확인됨.
+- 인물: 다수의 리더십 저서를 쓴 미국의 리더십 전문가다.
+- 배경: 그의 리더십 저서 전반에서 반복적으로 강조된 정의다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/051-john-c-maxwell.html
+
+### 셰릴 샌드버그 (Sheryl Sandberg) — No. 052
+- 명언: 미래에는 여성 리더가 따로 없을 것이다. 그저 리더가 있을 뿐이다.
+- 영어: In the future, there will be no female leaders. There will just be leaders.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《린 인(Lean In)》(2013)에서 확인됨.
+- 인물: 메타(옛 페이스북)의 최고운영책임자를 지낸 경영인이다.
+- 배경: 저서에서 성별을 넘어선 리더십을 이야기하며 남긴 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/052-sheryl-sandberg.html
+
+### 사이먼 시넥 (Simon Sinek) — No. 053
+- 명언: 리더십은 책임자가 되는 것이 아니라, 자신이 책임진 사람들을 돌보는 것이다.
+- 영어: Leadership is not about being in charge. It's about taking care of those in your charge.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《리더 디퍼런트(Leaders Eat Last)》(2014)에서 확인됨.
+- 인물: 리더십과 조직문화를 주제로 강연하는 작가다.
+- 배경: 저서와 강연에서 반복적으로 제시한 리더십 정의다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/053-simon-sinek.html
+
+### 루스 베이더 긴즈버그 (Ruth Bader Ginsburg) — No. 054
+- 명언: 당신이 중요하게 여기는 것을 위해 싸우되, 다른 사람들이 함께하고 싶어지는 방식으로 하라.
+- 영어: Fight for the things that you care about, but do it in a way that will lead others to join you.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 다수 인터뷰에서 확인되나 최초 발화 시점은 특정하기 어려움.
+- 인물: 미국 연방대법원 대법관을 지낸 법조인이다.
+- 배경: 여러 인터뷰와 연설에서 반복적으로 전한 조언이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/054-ruth-bader-ginsburg.html
+
+### 잭 웰치 (Jack Welch) — No. 055
+- 명언: 리더가 되기 전에는 성장은 오직 나 자신에 관한 것이다. 리더가 된 후에는 성장은 다른 사람을 키우는 것에 관한 것이다.
+- 영어: Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 저서 《위대한 승리(Winning)》(2005)에서 확인됨.
+- 인물: 제너럴일렉트릭(GE)을 20년간 이끈 경영자다.
+- 배경: 본인의 경영 저서에서 리더십의 전환점을 설명하며 남긴 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/055-jack-welch.html
+
+### 워런 베니스 (Warren Bennis) — No. 056
+- 명언: 리더십은 비전을 현실로 옮기는 능력이다.
+- 영어: Leadership is the capacity to translate vision into reality.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인의 리더십 저술에서 확인됨.
+- 인물: 리더십 연구 분야를 개척한 미국의 경영학자다.
+- 배경: 그의 리더십 이론 저술 전반에서 확인되는 정의다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/056-warren-bennis.html
+
+### 넬슨 만델라 (Nelson Mandela) — No. 057
+- 명언: 이루기 전까지는 언제나 불가능해 보인다.
+- 영어: It always seems impossible until it's done.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 인용되나 정확한 발화 맥락은 확인되지 않음.
+- 인물: 남아프리카공화국 최초의 흑인 대통령이자 반(反)아파르트헤이트 지도자다.
+- 배경: 널리 인용되는 문장이나, 정확한 발화 시점의 1차 기록은 확인되지 않는다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/057-nelson-mandela.html
+
+### 마거릿 대처 (Margaret Thatcher) — No. 058
+- 명언: 승리하기 위해서는 한 번 이상 싸워야 할 때도 있다.
+- 영어: You may have to fight a battle more than once to win it.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 회고록 등에서 인용되나 정확한 발화 시점은 재확인이 필요함.
+- 인물: 영국 최초의 여성 총리를 지낸 정치인이다.
+- 배경: 정치적 위기를 겪으며 남긴 발언으로 회고록 등에 소개되어 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/058-margaret-thatcher.html
+
+### 코피 아난 (Kofi Annan) — No. 059
+- 명언: 리더가 되기에 너무 어린 나이는 없고, 배우기에 너무 늦은 나이도 없다.
+- 영어: You are never too young to lead and never too old to learn.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 여러 연설에서 확인되나 특정 1차 출처는 명확하지 않음.
+- 인물: 가나 출신으로 UN 사무총장을 지낸 외교관이다.
+- 배경: 청년 리더십을 주제로 한 여러 연설에서 언급한 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/059-kofi-annan.html
+
+### 콜린 파월 (Colin Powell) — No. 060
+- 명언: 부하들이 더 이상 자신의 문제를 당신에게 가져오지 않는 날, 당신은 그들을 이끄는 것을 멈춘 것이다.
+- 영어: The day soldiers stop bringing you their problems is the day you have stopped leading them.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 회고록 《마이 아메리칸 저니(My American Journey)》(1995)에서 확인됨.
+- 인물: 미국 최초의 흑인 합참의장이자 국무장관을 지낸 군인 출신 정치인이다.
+- 배경: 군 경력을 담은 회고록에서 리더십의 신호에 대해 설명한 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/060-colin-powell.html
+
+### 손자 (Sun Tzu) — No. 061
+- 명언: 최고의 전략은 싸우지 않고 적을 굴복시키는 것이다.
+- 영어: The supreme art of war is to subdue the enemy without fighting.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 고전 《손자병법》 원문 번역으로 확인됨.
+- 인물: 고대 중국의 군사 전략가로, 《손자병법》의 저자로 알려져 있다.
+- 배경: 고전 병법서 《손자병법》에 실제로 수록된 구절의 대표적 번역이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/061-sun-tzu.html
+
+## 성공
+
+### 부커 T. 워싱턴 (Booker T. Washington) — No. 010
+- 명언: 성공은 도달한 위치가 아니라, 성공하려 애쓰는 동안 극복한 장애물로 측정해야 한다.
+- 영어: Success is to be measured not so much by the position one has reached, as by the obstacles overcome.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1901년 자서전 원문에서 확인됨.
+- 인물: 노예로 태어나 교육자·연설가로 성장했으며, 터스키기 대학교를 설립했다.
+- 배경: 1901년 출간된 자서전 《노예제도를 벗어나서(Up From Slavery)》에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/010-booker-t-washington.html
+
+### 콜린 파월 (Colin Powell) — No. 013
+- 명언: 성공에는 지름길이 없다. 그것은 준비, 노력, 그리고 실패로부터 배우는 것의 결과다.
+- 영어: There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 자서전 《마이 아메리칸 저니(My American Journey)》(1995)에서 확인됨.
+- 인물: 미국 최초의 흑인 합참의장이자 국무장관을 지낸 군인 출신 정치인이다.
+- 배경: 군 경력을 통해 체득한 원칙주의적 리더십 철학이 담긴 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/013-colin-powell.html
+
+### 리처드 브랜슨 (Richard Branson) — No. 030
+- 명언: 기회는 버스와 같아서, 놓쳐도 항상 다음 것이 온다.
+- 영어: Opportunities are like buses, there's always another one coming.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 자서전 《발가벗은 채로 사업하기(Losing My Virginity)》 등에서 반복적으로 언급됨.
+- 인물: 버진 그룹을 창립한 영국의 기업가로 여러 산업 분야에 도전해왔다.
+- 배경: 수많은 사업 실패와 재도전을 반복해온 그의 경영 철학을 담고 있다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/030-richard-branson.html
+
+### 워런 버핏 (Warren Buffett) — No. 031
+- 명언: 가격은 당신이 지불하는 것이고, 가치는 당신이 얻는 것이다.
+- 영어: Price is what you pay. Value is what you get.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 버크셔 해서웨이 주주서한 원문에서 확인됨.
+- 인물: 버크셔 해서웨이를 이끄는 투자자로, 장기 가치투자 철학으로 유명하다.
+- 배경: 버크셔 해서웨이 주주서한에 반복적으로 등장하는 그의 대표적 투자 원칙이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/031-warren-buffett.html
+
+### 나폴레온 힐 (Napoleon Hill) — No. 032
+- 명언: 정신이 품고 믿을 수 있는 것은, 정신이 이룰 수 있다.
+- 영어: Whatever the mind can conceive and believe, it can achieve.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1937년 저서 원문에서 확인됨.
+- 인물: 성공학 분야의 고전 《생각하라 그리고 부자가 되어라》를 쓴 저술가다.
+- 배경: 1937년 출간된 그의 저서에 실제로 수록된 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/032-napoleon-hill.html
+
+### 에스티 로더 (Estée Lauder) — No. 033
+- 명언: 나는 성공을 꿈꾸지 않았다. 그것을 위해 일했다.
+- 영어: I never dreamed about success. I worked for it.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인 회고록 《Estée: A Success Story》에서 확인됨.
+- 인물: 에스티 로더 화장품 브랜드를 창업한 미국의 기업가다.
+- 배경: 자신의 회고록에서 밝힌 사업 철학이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/033-estée-lauder.html
+
+### 샘 월튼 (Sam Walton) — No. 034
+- 명언: 높은 기대야말로 모든 것의 열쇠다.
+- 영어: High expectations are the key to everything.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 자서전 《Made in America》에서 확인됨.
+- 인물: 월마트를 창업한 미국의 소매업 기업가다.
+- 배경: 자서전에서 경영 철학을 설명하며 남긴 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/034-sam-walton.html
+
+### 앤드루 카네기 (Andrew Carnegie) — No. 035
+- 명언: 모든 것을 혼자 하려는 사람은 결코 위대한 지도자가 될 수 없다.
+- 영어: No man will make a great leader who wants to do it all himself.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 1889년 에세이 'The Gospel of Wealth' 원문에서 확인됨.
+- 인물: 철강 산업으로 부를 쌓은 뒤 대규모 자선사업을 펼친 기업가다.
+- 배경: 1889년 발표한 에세이에서 조직과 위임의 중요성을 강조하며 남긴 말이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/035-andrew-carnegie.html
+
+### 헨리 포드 (Henry Ford) — No. 036
+- 명언: 할 수 있다고 생각하든 할 수 없다고 생각하든, 당신 생각이 맞다.
+- 영어: Whether you think you can, or you think you can't--you're right.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 인용되나 정확한 발화 시점의 1차 출처는 특정하기 어려움.
+- 인물: 포드 자동차를 설립하고 컨베이어벨트식 대량생산을 개척한 기업가다.
+- 배경: 그의 경영 철학을 요약하는 문장으로 폭넓게 인용된다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/036-henry-ford.html
+
+### 제프 베이조스 (Jeff Bezos) — No. 037
+- 명언: 당신의 브랜드는, 당신이 그 자리에 없을 때 사람들이 당신에 대해 하는 말이다.
+- 영어: Your brand is what people say about you when you're not in the room.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 인용되나 정확한 발화 맥락은 명확히 확인되지 않음.
+- 인물: 아마존을 창업한 기업가로, 고객 중심 경영으로 잘 알려져 있다.
+- 배경: 브랜드와 평판에 대한 그의 경영관을 담은 문장으로 널리 인용된다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/037-jeff-bezos.html
+
+### 코코 샤넬 (Coco Chanel) — No. 038
+- 명언: 성공은 실패가 불가피하다는 것을 모르는 사람들이 가장 자주 이룬다.
+- 영어: Success is most often achieved by those who don't know that failure is inevitable.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 널리 인용되나 1차 출처는 명확히 확인되지 않음.
+- 인물: 패션 브랜드 샤넬을 창립한 프랑스의 디자이너다.
+- 배경: 그녀의 도전적인 사업 철학을 보여주는 문장으로 자주 인용된다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/038-coco-chanel.html
+
+### 메리 케이 애시 (Mary Kay Ash) — No. 039
+- 명언: 그 결과를 감당할 준비만 되어 있다면, 이 세상에서 무엇이든 할 수 있다.
+- 영어: You can do anything in this world if you are prepared to take the consequences.
+- 출처 표기: 원문 확인됨
+- 출처 메모: 본인 저서 《Mary Kay: You Can Have It All》에서 확인됨.
+- 인물: 화장품 방문판매 기업 메리케이를 창업한 미국의 기업가다.
+- 배경: 본인의 저서에서 여성 창업가들에게 전한 메시지다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/039-mary-kay-ash.html
+
+### 필 나이트 (Phil Knight) — No. 040
+- 명언: 삶을 바꾸기 위해 행동하거나, 있는 그대로 받아들이거나, 둘 중 하나다.
+- 영어: You can change your life, or you can stay the same. That's the immutable conflict of life.
+- 출처 표기: 널리 인용됨 · 출처 특정 어려움
+- 출처 메모: 회고록 《슈독(Shoe Dog)》의 취지를 담은 문장으로, 정확한 원문 표현은 번역·편집에 따라 다를 수 있음.
+- 인물: 나이키를 공동창업한 미국의 기업가다.
+- 배경: 회고록에서 사업 초기의 결단을 회고하며 남긴 문장이다.
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/040-phil-knight.html
