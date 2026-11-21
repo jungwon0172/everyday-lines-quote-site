@@ -889,7 +889,7 @@
 - 출처 메모: 본인 회고록 《Estée: A Success Story》에서 확인됨.
 - 인물: 에스티 로더 화장품 브랜드를 창업한 미국의 기업가다.
 - 배경: 자신의 회고록에서 밝힌 사업 철학이다.
-- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/033-estée-lauder.html
+- 페이지: https://everyday-lines-quote-site.vercel.app/quotes/033-estee-lauder.html
 
 ### 샘 월튼 (Sam Walton) — No. 034
 - 명언: 높은 기대야말로 모든 것의 열쇠다.
